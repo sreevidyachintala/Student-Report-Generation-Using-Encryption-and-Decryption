@@ -1,4 +1,4 @@
-# Project 1: Student Report Generation
+# Project 1: Student Report Generation Using Encryption and Decryption
 ### by Sreevidya Chintala
 
 ## What it is and does
